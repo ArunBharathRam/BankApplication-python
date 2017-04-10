@@ -1,5 +1,7 @@
 # BankApplication-python
 A simple bank application code in python language.
+
+
 It contains options like
 1.customer details
 2.checking balance
